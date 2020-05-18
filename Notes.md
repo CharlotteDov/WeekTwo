@@ -17,3 +17,7 @@ API:
 - An API is just a way of opening up a program so that another program can interact with it. That is, instead of an interface meant for a human to interact with the machine, there’s an API to allow some other machine to interact with this one. If you’ve ever downloaded an app on your phone that allowed you to interact with Instagram (but wasn’t Instagram itself), that interaction was through Instagram’s API, for instance.
 - Instead of you punching in the search terms on a search page, and copying and pasting the results, you frame a request as a URL. More or less. The results often come back to you in a text format where data is organized according to keys and values (JSON).
 - Instructions are straightforward enough but would like to try it again to make sure I got it
+
+- Screenshot of my active history files and images from wget exercise (mostly wanted to practice putting images into these files)
+![2020-05-17](https://user-images.githubusercontent.com/64856056/82165820-886a6300-9884-11ea-8d2b-02c82d7d1f60.png)
+

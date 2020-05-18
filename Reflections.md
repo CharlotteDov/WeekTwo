@@ -7,3 +7,6 @@ Reading:
 
 Wget:
 -	Super cool once I got it working. I really enjoyed the exercise of extracting the images from Ballard’s diary. Another great reminder that even though I had no idea what I was doing, it pays to put it out there on discord. I really appreciated the help and before I even put out my problem, I read through all the other messages and tried all those possible solutions. It was time consuming to keep trying different things, but it gave me a better understanding of what the problem actually was, instead of me just blindly trying to follow the instructions. I did not get to the bonus exercises but I would like to look into it more this week. 
+
+API:
+- The API was challenging for me and honestly I might try it all again this week because I think my first attempt was a bit of a fluke. The wget exercises took up a fair bit of time this week, mostly because I wanted to ensure I really understood what was going on, so I think it's important I give a similar level of attention to the API part of this week's work.
